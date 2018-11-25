@@ -1,0 +1,11 @@
+C:\Users\drees\source\repos\Assignment No 3\Assignment No 3\obj\Debug\Assignment No 3.vbprojAssemblyReference.cache
+C:\Users\drees\source\repos\Assignment No 3\Assignment No 3\obj\Debug\Assignment_No_3.Resources.resources
+C:\Users\drees\source\repos\Assignment No 3\Assignment No 3\obj\Debug\Assignment No 3.vbproj.GenerateResource.cache
+C:\Users\drees\source\repos\Assignment No 3\Assignment No 3\obj\Debug\Assignment No 3.vbproj.CoreCompileInputs.cache
+C:\Users\drees\source\repos\Assignment No 3\Assignment No 3\bin\Debug\Assignment No 3.exe.config
+C:\Users\drees\source\repos\Assignment No 3\Assignment No 3\bin\Debug\Assignment No 3.exe
+C:\Users\drees\source\repos\Assignment No 3\Assignment No 3\bin\Debug\Assignment No 3.pdb
+C:\Users\drees\source\repos\Assignment No 3\Assignment No 3\bin\Debug\Assignment No 3.xml
+C:\Users\drees\source\repos\Assignment No 3\Assignment No 3\obj\Debug\Assignment No 3.exe
+C:\Users\drees\source\repos\Assignment No 3\Assignment No 3\obj\Debug\Assignment No 3.xml
+C:\Users\drees\source\repos\Assignment No 3\Assignment No 3\obj\Debug\Assignment No 3.pdb
