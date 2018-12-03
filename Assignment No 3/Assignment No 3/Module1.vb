@@ -19,7 +19,7 @@
     '           Console.WriteLine("True")
     '      Case Else
     '           Console.WriteLine("False")
-
+    ' End Select
     ' Data File (Input Variables)
     Private EmpHoursWorkedDecimal As Decimal
 
